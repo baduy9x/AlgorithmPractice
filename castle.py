@@ -33,6 +33,9 @@ def minimumMoves(grid, startX, startY, goalX, goalY):
 if __name__ == '__main__':
     result = minimumMoves(['.X.','.X.', '...'], 0, 0, 0, 2)
     print(result)
+    
+    
+    
 
     # fptr = sys.stdout
     # sys.stdin = open("input.txt", "r")

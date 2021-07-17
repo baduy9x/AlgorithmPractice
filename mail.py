@@ -2,7 +2,9 @@ Hi Shelley,Here is my information.
 1. Your current or last drawn salary package, in gross terms in local currency, monthly and annum. Feel free to lay out the pay structure for us if it contains any special arrangement other than basic salary and year-end bonus. (Experience candidate please provide the most recent pay slips for minimum of 3 months as well as bonus payslip. Fresh graduate - you may indicate N.A.)
 - Per month: 2500 USD- Per annum: 43000 USD (include 2500 USD * 12 month + 10000 USD Bonus + 3000 USD(allowances + onsite fee) )- Any other benefits (e.g. stocks, allowances..): 50 USD/month for lunch allowances, 200 USD/month for onsite fee.
 2. Your expected salary package, monthly and annum and please specify the currency (SGD), in pure cash terms. Our pay structure is basic gross monthly salary x 12 months + a performance based bonus that is up to 3 months. 
-- Per month: From 7500 SGD to 10000 SGD- Total package per year (including base and bonus): 105000 SGD - 150000 SGD (include bonus of course ^^)
+- Per month: From 7500 SGD to 10000 SGD
+- Total package per year (including base and bonus): 105000 SGD 
+- 150000 SGD (include bonus of course ^^)
 3. Do also let me know if you have any offers on-hand currently so that we can escalate the process on our end accordingly. If so, please provide the company name/ position/ stage/ offer details (verbal or official, deadline to get back, include offer screenshots if applicable).
 - I have some offers, but in Vietnam, they paid me 3000 USD/month and a 4000 USD sign-in bonus. If I have one in Singapore. I will notice you. Thank you for that.
 
