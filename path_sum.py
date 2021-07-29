@@ -18,6 +18,7 @@ def get_cheapest_cost(rootNode):
           seen.add(child)
   return result
 
+
 ########################################## 
 # Use the helper code below to implement #
 # and test your function above           #

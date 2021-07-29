@@ -8,10 +8,7 @@ import sys
 import math
 
 
-
-
-
-# Complete the primality function below.
+# Complete the primarily function below.
 def primality(n):
     if n == 1:
         return 'Not prime'
@@ -24,8 +21,6 @@ def primality(n):
         if n % i == 0:
             return 'Not prime'
     return 'Prime'
-
-
 
 
 if __name__ == '__main__':
